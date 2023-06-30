@@ -1,0 +1,22 @@
+/* ======= Global Styles ====== */
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  font-family: Helvetica;
+  font-size: 22px;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
